@@ -1,5 +1,4 @@
-# ══════════════ WRITE README.md ══════════════
-readme = """# 🏥 Clinical Trial Results Dashboard
+# 🏥 Clinical Trial Results Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-3.0-green?style=flat-square)
