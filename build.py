@@ -1,10 +1,8 @@
-# 1. Run Python code → generates images
+
+## 🚀 How To Run This Project
+
+```bash
+git clone https://github.com/omiiii274/clinical-trial-dashboard.git
+cd clinical-trial-dashboard
+pip install -r requirements.txt
 python build.py
-
-# 2. Check images exist
-ls images/
-
-# 3. Push EVERYTHING including images
-git add .
-git commit -m "Add project with results and visualisations"
-git push origin main
